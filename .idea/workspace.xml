@@ -4,29 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95549c51-7823-4dba-a275-f0c63932aff2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/carousel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/flask.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/ladybug.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/th.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/checkbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/dropdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/frame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/msg_box.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/radiobutton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/sliders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/windows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/basic_calculator/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/feet_to_meters_calculator/calc_ft_mts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/image_carousel/img_carousel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/todo_app/db.py" afterDir="false" />
+    <list default="true" id="95549c51-7823-4dba-a275-f0c63932aff2" name="Changes" comment="update: added todo app with tkinter and sqlite">
+      <change afterPath="$PROJECT_DIR$/basics/treeview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/logbook/crm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buttons.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/buttons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -58,6 +43,7 @@
     "Python.calc_ft_mts.executor": "Run",
     "Python.calculator.executor": "Run",
     "Python.checkbox.executor": "Run",
+    "Python.crm.executor": "Run",
     "Python.db.executor": "Run",
     "Python.dropdown.executor": "Run",
     "Python.files.executor": "Run",
@@ -69,6 +55,7 @@
     "Python.msg_box.executor": "Run",
     "Python.radiobutton.executor": "Run",
     "Python.sliders.executor": "Run",
+    "Python.treeview.executor": "Run",
     "Python.windows.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -128,6 +115,19 @@
       <option name="presentableId" value="Default" />
       <updated>1701999833619</updated>
     </task>
+    <task id="LOCAL-00001" summary="update: added todo app with tkinter and sqlite">
+      <option name="closed" value="true" />
+      <created>1702076410248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702076410248</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update: added todo app with tkinter and sqlite" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: added todo app with tkinter and sqlite" />
   </component>
 </project>
